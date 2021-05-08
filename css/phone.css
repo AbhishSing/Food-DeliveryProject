@@ -1,0 +1,19 @@
+
+#home{
+height: 370px;
+}
+#services{
+  flex-direction: column;
+}
+#services.box{
+
+}
+#home p{
+  font-size: 13px;
+}
+#clients{
+  overflow: hidden;
+}
+.h-primary{
+  font-size: 26px;
+}
